@@ -3,17 +3,17 @@
 - 🤔 Construindo
 - 🎓 Estudando Engenharia de Software na Anhanguera.
 - 💼 Analista de Software Jr na ASTRA.
-- 🌱 Estudando Golang.
+- 🌱 Desenvolvedor Fullstack
 
 ## Minhas Skills
 
 **Stack**
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=JavaScript)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go)
 
 **Utilidades**
 
