@@ -2,7 +2,6 @@
 
 - 🤔 Construindo
 - 🎓 Estudando Engenharia de Software na Anhanguera.
-- 💼 Analista de Software Jr na ASTRA.
 - 🌱 Desenvolvedor Fullstack
 
 ## Minhas Skills
